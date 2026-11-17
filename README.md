@@ -1,9 +1,9 @@
 # EXPERIMENT 3 :8086 MICROPROCESSOR – BASIC ARITHMETIC OPERATIONS
 
-## DATE:
-## NAME:
-## ROLL NUMBER:
-## DEPARTMENT:
+## DATE: 17/11/2026
+## NAME: KARUNAKARAN R
+## ROLL NUMBER: RA2511030010324
+## DEPARTMENT: NETWORKING & COMMUNICATIONS (NWC)
 
 ---
 
@@ -204,6 +204,9 @@ HLT
 Upload the addition program execution screenshot here.
 
 ![Addition Output](img/addition.png)
+
+<img width="1728" height="805" alt="image" src="https://github.com/user-attachments/assets/102c76b9-5d3f-45c1-b7cb-872ea858ef1d" />
+
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
